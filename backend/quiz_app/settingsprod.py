@@ -3,7 +3,7 @@ from .settings import *
 
 DEBUG = False
 
-SECRET_KEY = ')quu=de+1fze++3&_^&mtg)xckmht79d1mm8b)20v14_^1=3xd'
+SECRET_KEY = ''
 
 ALLOWED_HOSTS = ['*']
 
